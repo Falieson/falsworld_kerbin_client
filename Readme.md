@@ -5,3 +5,5 @@ Place the Gamedata folder in your Kerbal Space Program game directory. Allow it 
 The first time you run the game it will take a long time to load. After that it will load quickly each time. This is caused by the ActiveTextureManagement mod, which offers better than stock texture compression.
 
 This mod pack includes the Remote Tech system, whereby any unkerbal'd vehicles must be in radio contact with the Kerbal Space Center. This means building comm sats!
+
+DMPModControl.txt is a server config file. It is not needed to connect to the server.
