@@ -1,0 +1,2 @@
+Build 346 from branch master in RemoteTechnologiesGroup/RemoteTech
+Built from commit fdd471d36abeca00bfda026d9c2600702215a3ea with tag build-develop-344
