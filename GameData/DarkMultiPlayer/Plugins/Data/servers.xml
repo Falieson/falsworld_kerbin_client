@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<settings>
+  <global username="Cosah" cache-size="100" disclaimer="1" player-color="1, 0.5, 0" chat-key="289" screenshot-key="0" selected-flag="Squad/Flags/default" compression="True" revert="True" toolbar="2" />
+  <servers>
+    <server name="Flo" address="192.168.1.122" port="6702" />
+  </servers>
+</settings>

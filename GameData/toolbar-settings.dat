@@ -1,0 +1,18 @@
+toolbars
+{
+	MAINMENU
+	{
+		toolbar_715607116
+		{
+			x = 300
+			y = 300
+			width = 250
+			height = 0
+			autoHide = False
+			drawBorder = True
+			useKSPSkin = False
+			buttonOrder = 
+			visibleButtons = 
+		}
+	}
+}
