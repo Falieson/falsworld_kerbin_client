@@ -11,24 +11,34 @@ The first time you run the game it will take a long time to load. After that it 
 This mod pack includes the Remote Tech system, whereby any unkerbal'd vehicles must be in radio contact with the Kerbal Space Center. This means building comm sats!
 
 ## UI & Toolbars
-* [Kerbal Engineer]()
-* [Planetary Transition window planner]()
-* [Blizzy Toolbar]() --- Control toolbar locations and availability
-* [SCANsat]() --- Makes map of surface with satellite scanner
-* [Docking Alignment Indicator]()
-* [IVA Cockpit enhancements]()
+* [Kerbal Engineer]
+* [Planetary Transition window planner]
+* [Blizzy Toolbar] --- Control toolbar locations and availability
+* [SCANsat] --- Makes map of surface with satellite scanner
+* [Docking Alignment Indicator]
+* [IVA Cockpit enhancements]
 
 ## Multiplayer
-* [DMPClient ]()
-* [Active Texture Management]() --- Improves texture processing speed
-* [Community Resource Pack]()
+* [DMPClient ]
+* [Active Texture Management] --- Improves texture processing speed
+* [Community Resource Pack]
 
 
 ## Parts
-* [MechJeb 2]() --- Makes orbits and rendezvous easy
+* [MechJeb 2] --- Makes orbits and rendezvous easy
+* [Mod Manager]
+* [Remote Tech] --- Creates Satellites
 
-* [Mod Manager]()
-* [Remote Tech]() --- Creates Satellites
+## Graphic Packs
+Get it here: [Falsworld Texture Pack](https://github.com/Falieson/falsworld_kerbin_client/tree/texture-packs-graphic-addons)
+
+Choose Low, Medium, or Highres graphics.
+
+1. In the GameData there are 3 folders: LowRes, MedRes, HighRes
+1. copy the contents of the folder you want to the GameData directory
+1. All done!
+### Mods
+* [Better Atmospheres](http://forum.kerbalspaceprogram.com/threads/77523-0-23-5-Better-Atmospheres)
 
 
 # Server Info
