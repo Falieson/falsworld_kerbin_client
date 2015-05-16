@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="us-ascii"?>
 <ArrayOfSettingItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <SettingItem>
     <Name>StockSections</Name>
@@ -51,7 +51,7 @@
         <IsHud>false</IsHud>
         <IsHudBackground>false</IsHudBackground>
         <IsVisible>true</IsVisible>
-        <LineCount>11</LineCount>
+        <LineCount>12</LineCount>
         <Name>SURFACE</Name>
         <ReadoutModuleNames>
           <string>Surface.AltitudeTerrain</string>
@@ -80,7 +80,7 @@
         <IsHud>false</IsHud>
         <IsHudBackground>false</IsHudBackground>
         <IsVisible>true</IsVisible>
-        <LineCount>13</LineCount>
+        <LineCount>15</LineCount>
         <Name>VESSEL</Name>
         <ReadoutModuleNames>
           <string>Vessel.DeltaVStaged</string>
@@ -156,7 +156,7 @@
         <Abbreviation>HUD 2</Abbreviation>
         <EditorPositionX>710</EditorPositionX>
         <EditorPositionY>290</EditorPositionY>
-        <FloatingPositionX>1325</FloatingPositionX>
+        <FloatingPositionX>1255</FloatingPositionX>
         <FloatingPositionY>0</FloatingPositionY>
         <IsCustom>true</IsCustom>
         <IsEditorVisible>false</IsEditorVisible>

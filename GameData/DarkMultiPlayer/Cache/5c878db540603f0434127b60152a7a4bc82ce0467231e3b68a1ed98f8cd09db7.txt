@@ -1,0 +1,78 @@
+pid = b0ea43827d3f47e18a66ea22d454e210
+name = Ast. ILL-948
+type = SpaceObject
+sit = ORBITING
+landed = False
+landedAt = 
+splashed = False
+met = 177.651663000001
+lct = 177.651663000001
+root = 0
+lat = 0.270453165728066
+lon = 182.371631350876
+alt = 14529638966.9639
+hgt = -1
+nrm = 0,1,0
+rot = -0.4776582,0.5927963,-0.1524755,0.6302273
+CoM = 0,0,0
+stg = 0
+prst = False
+ref = 0
+ctrl = False
+ORBIT
+{
+	SMA = 14489940859.0014
+	ECC = 0.0652147417502924
+	INC = 0.284887126958686
+	LPE = 220.417481632135
+	LAN = 74.2029302195704
+	MNA = 0.374372115291247
+	EPH = 3556886.13554972
+	REF = 0
+}
+PART
+{
+	name = PotatoRoid
+	cid = 0
+	uid = 2077593688
+	mid = 2077593688
+	launchID = 0
+	parent = 0
+	position = 0,0,0
+	rotation = 0,0,0,1
+	mirror = 1,1,1
+	symMethod = Radial
+	istg = 0
+	dstg = 0
+	sqor = 0
+	sepI = 0
+	sidx = 0
+	attm = 0
+	srfN = None, -1
+	mass = 150
+	temp = -1
+	expt = 0.1
+	state = 0
+	connected = True
+	attached = True
+	flag = 
+	rTrf = 
+	modCost = 0
+}
+ACTIONGROUPS
+{
+}
+DISCOVERY
+{
+	state = 1
+	lastObservedTime = 177.651663000001
+	lifetime = 1105930.23376465
+	refTime = 1728000
+	size = 2
+}
+FLIGHTPLAN
+{
+}
+CTRLSTATE
+{
+}

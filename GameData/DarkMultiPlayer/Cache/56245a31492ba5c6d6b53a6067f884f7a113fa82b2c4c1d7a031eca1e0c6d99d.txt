@@ -1,0 +1,78 @@
+pid = 5157928a95764d14abe1f40daf9a8758
+name = Ast. PBQ-629
+type = SpaceObject
+sit = ORBITING
+landed = False
+landedAt = 
+splashed = False
+met = 177.651663000001
+lct = 177.651663000001
+root = 0
+lat = -0.342217078293834
+lon = 181.008197365073
+alt = 13979123426.732
+hgt = -1
+nrm = 0,1,0
+rot = -0.2614734,0.6820947,0.3109143,0.6080384
+CoM = 0,0,0
+stg = 0
+prst = False
+ref = 0
+ctrl = False
+ORBIT
+{
+	SMA = 13881888954.9626
+	ECC = 0.0317128197911551
+	INC = 0.869611280028867
+	LPE = 122.4616053655
+	LAN = 204.328899309445
+	MNA = 0.800772407004962
+	EPH = 4994345.43730753
+	REF = 0
+}
+PART
+{
+	name = PotatoRoid
+	cid = 0
+	uid = 1019554395
+	mid = 1019554395
+	launchID = 0
+	parent = 0
+	position = 0,0,0
+	rotation = 0,0,0,1
+	mirror = 1,1,1
+	symMethod = Radial
+	istg = 0
+	dstg = 0
+	sqor = 0
+	sepI = 0
+	sidx = 0
+	attm = 0
+	srfN = None, -1
+	mass = 150
+	temp = -1
+	expt = 0.1
+	state = 0
+	connected = True
+	attached = True
+	flag = 
+	rTrf = 
+	modCost = 0
+}
+ACTIONGROUPS
+{
+}
+DISCOVERY
+{
+	state = 1
+	lastObservedTime = 177.651663000001
+	lifetime = 489495.135498047
+	refTime = 1728000
+	size = 0
+}
+FLIGHTPLAN
+{
+}
+CTRLSTATE
+{
+}

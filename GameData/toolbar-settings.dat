@@ -14,5 +14,89 @@ toolbars
 			buttonOrder = 
 			visibleButtons = 
 		}
+		toolbar_500003137
+		{
+			x = 300
+			y = 300
+			width = 250
+			height = 38
+			autoHide = False
+			drawBorder = True
+			useKSPSkin = False
+			buttonOrder = 
+			visibleButtons = 
+		}
+		toolbar_1676461581
+		{
+			x = 1016
+			y = -3
+			width = 250
+			height = 38
+			autoHide = False
+			drawBorder = True
+			useKSPSkin = False
+			buttonOrder = 
+			visibleButtons = 
+		}
+	}
+	SPACECENTER
+	{
+		toolbar_500003137
+		{
+			x = 300
+			y = 300
+			width = 250
+			height = 38
+			autoHide = False
+			drawBorder = True
+			useKSPSkin = False
+			buttonOrder = 
+			visibleButtons = 
+		}
+	}
+	EDITOR
+	{
+		toolbar_1899216753
+		{
+			x = 1232
+			y = 41
+			width = 250
+			height = 38
+			autoHide = False
+			drawBorder = True
+			useKSPSkin = False
+			buttonOrder = 
+			visibleButtons = DarkMultiPlayer.GUIButton
+		}
+	}
+	FLIGHT
+	{
+		toolbar_1676461581
+		{
+			x = 1016
+			y = -3
+			width = 250
+			height = 38
+			autoHide = False
+			drawBorder = True
+			useKSPSkin = False
+			buttonOrder = 
+			visibleButtons = 
+		}
+	}
+	FLIGHTMAP
+	{
+		toolbar_1661462918
+		{
+			x = 300
+			y = 300
+			width = 250
+			height = 38
+			autoHide = False
+			drawBorder = True
+			useKSPSkin = False
+			buttonOrder = 
+			visibleButtons = 
+		}
 	}
 }

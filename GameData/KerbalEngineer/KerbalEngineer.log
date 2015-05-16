@@ -1,0 +1,6 @@
+Executing: KerbalEngineer - 1.0.16.6
+Assembly: /Users/florian/Library/Application Support/Steam/steamapps/common/Kerbal Space Program/GameData/KerbalEngineer/KerbalEngineer.dll
+
+[Log 13:05:11.7883710]: BuildToolbar->Awake
+[Log 13:05:12.1004000]: BuildToolbar->OnGuiAppLauncherReady
+[Log 13:13:18.6731260]: BuildToolbar->OnDestroy
