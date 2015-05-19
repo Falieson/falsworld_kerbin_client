@@ -2,6 +2,7 @@
 I don't claim ownership to any of the files contained in this repo. This is a pack of files required to connect to Falsworld Kerbal Space Program DarkMultiplayer server.
 
 #Instructions
+1. Download the master branch .zip or git clone if you know those things
 1. Place the Gamedata folder in your Kerbal Space Program game directory.
 1. Allow it to merge into the existing Gamedata folder and copy over the full contents.
 
